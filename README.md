@@ -45,6 +45,7 @@ Tools where storyboarding is one step in a broader AI video pipeline.
 - **[LTX Studio](https://ltx.studio/)** — Full AI video production platform, $150M funded. Storyboarding is intermediate step before animatic. *Best for AI-forward studios building full short films end-to-end. Steep learning curve.*
 - **[Runway](https://runwayml.com/)** — AI video generation with image-to-video and director-style controls. Not storyboard-first but produces storyboard-like keyframes.
 - **[Pika](https://pika.art/)** — Idea-to-video AI platform. Faster than Runway, smaller per-clip generation.
+- **[StoryTeardown](https://storyteardown.com)** — Reverse breakdown: turns existing short clips into timestamped, editable shot lists and narrative analysis. Paid credits from $9.99.
 
 ## Script format converters
 
@@ -82,6 +83,7 @@ Printable PDFs you can fill in by hand.
 - **[STORYLINER template pack](https://www.storyliner.online/storyboard-templates)** — 5 free PDF layouts: 6-panel, 9-panel, 12-panel widescreen, 4-panel detail, vertical 9:16.
 - **[Boords template gallery](https://boords.com/storyboard-template)** — Multiple printable formats.
 - **[Studiobinder templates](https://www.studiobinder.com/blog/storyboard-template-free-download/)** — Commercial-focused templates.
+- **[Shot list template (GitHub)](https://github.com/JinHanAI/shot-list-template)** — Free CSV + Markdown shot list with column guide and worked example, CC BY 4.0.
 
 ## Communities
 
